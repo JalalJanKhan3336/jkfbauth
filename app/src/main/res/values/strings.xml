@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuthLibrary</string>
+    <string name="phone_auth">Authenticate via Phone Number</string>
+    <string name="email_auth">Authenticate via Email Address</string>
+</resources>
